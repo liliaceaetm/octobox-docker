@@ -16,7 +16,7 @@ Octobox helps you manage your GitHub notifications efficiently so you can spend 
 
 - **Open for everyone** - Octobox developers use Octobox to develop Octobox. 100% developed and managed in the open on GitHub under a FLOSS license.
 
-![Screenshot of  Octobox](app/assets/images/screenshot.png)
+![Screenshot of  Octobox](app/assets/images/screenshot.png) 
 
 [![Build Status](https://travis-ci.org/octobox/octobox.svg?branch=master)](https://travis-ci.org/octobox/octobox)
 [![View performance data on Skylight](https://badges.skylight.io/typical/eLvcBBdLmV6k.svg)](https://oss.skylight.io/app/applications/eLvcBBdLmV6k)
